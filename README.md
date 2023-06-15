@@ -23,10 +23,13 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Harsh-Lalai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harshlalai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Harsh_N_Lalai10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+[<img align="left" alt="ShreyPandit2001 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShreyPandit2001)
+[<img align="left" alt="ShreyPandit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ShreyPandit)
 
-### Badges
+
+<br>
+<br>
 
 <b>My GitHub Stats</b>
 
-<img align="left" alt="Shrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyPandit&show_icons=true&hide_border=true" />
+<img align="left" alt="Shrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Harsh-Lalai&show_icons=true&hide_border=true" />
