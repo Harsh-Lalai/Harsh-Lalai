@@ -29,6 +29,4 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Harsh-Lalai"><img src="https://github-readme-stats.vercel.app/api?username=Harsh-Lalai&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Harsh-Lalai's GitHub stats" /></a>
-
-<a href="https://github.com/Harsh-Lalai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Lalai&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img align="left" alt="Shrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyPandit&show_icons=true&hide_border=true" />
