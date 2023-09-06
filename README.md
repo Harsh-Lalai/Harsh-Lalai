@@ -8,7 +8,7 @@
 
 <br>
 - ♟ I am interested in Application-based research projects in Machine Learning. <br>
-- 👯 I’m looking to collaborate on projects relating to the intersection of NLP, HCI and Cognitive Science, and work that relates to my current field of interest. <br>
+- 👯 I’m looking to collaborate on projects relating to the intersection of NLP, HCI and Cognitive Science. <br>
 - 👻 Want to know More about Me? Follow me on LinkedIn.
 <br>
 
